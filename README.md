@@ -1,6 +1,5 @@
 # GNU/LINUX Ćwiczenia 10!!!!!
 
----
 
 ## W dzisiejszym odcinku:
 
@@ -19,6 +18,10 @@ Zadzwoń w przeciągu 10 minut a otrzymasz DARMOWY zlewozmywak marki BOSHH i w b
 - Scenariusz - Bartosz Kądziołka
 - Scenografia - Bartosz Kądziołka
 - Casting - Bartosz Kądziołka
+- Reżyser - Bartosz Kądziołka
+- System operacyjny - Manjaro (Arch BTW)
 
+---
 
 ![image](tenna-deltarune-1430277042.gif)
+Credit: TobyFox - Deltarune Chapter 3
